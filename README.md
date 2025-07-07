@@ -5,7 +5,7 @@
 ## PCB
 ![alt text](/assets/pcb.png)
 ## Casing
-![alt text](/assets/casing.png)
+![alt text](/assets/case.png)
 ## BOM
 - 4x Cherry MX Switches
 - 4x Keycaps
